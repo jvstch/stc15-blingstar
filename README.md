@@ -1,5 +1,7 @@
 # stc15-blingstar
 Open firmware for STC15F204EA based Commonly available Star Shaped LED PCB kit 
+### Details in the below youtube video:
+  https://youtu.be/giRV_Y_Iqjg
 
 ## Description
   STC15F204EA in one of the fast implementation(1 instruction per clock) of the classic intel 80C51 micro
